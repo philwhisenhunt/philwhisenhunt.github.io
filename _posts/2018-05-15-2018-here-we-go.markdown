@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Here we go!"
+date:   2018-05-15 08:39:56 -0400
+categories: jekyll update
+---
+When building sites with Jekyll, it is difficult to know where all your files are. Follow this quick guide to place your folders exactly where you want them to be. 
